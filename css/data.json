@@ -1,0 +1,32 @@
+{
+    "products":[
+        {
+            "name":"iphone",
+            "price":"$100",
+            "variant":"pro",
+            "quantity": "1",
+            "image":"iphone.jpg"
+        },
+        {
+            "name":"moto",
+            "price":"$90",
+            "variant":"pro",
+            "quantity": "2",
+            "image":"moto.jpg"
+        },
+        {
+            "name":"samsung",
+            "price":"$80",
+            "variant":"max-pro",
+            "quantity": "1",
+            "image":"samsung.jpg"
+        },
+        {
+            "name":"nokia",
+            "price":"$50",
+            "variant":"pro",
+            "quantity": "2",
+            "image":"nokia.jpg"
+        }
+    ]
+}
